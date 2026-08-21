@@ -1,0 +1,12 @@
+# deps
+node_modules/
+.env
+.dev.vars
+.wrangler/
+*.db
+server.js
+.DS_Store
+*.AppImage
+squashfs-root/
+src/**/*.js
+tsconfig.tsbuildinfo
